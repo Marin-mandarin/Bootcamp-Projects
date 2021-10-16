@@ -1,0 +1,79 @@
+#Body{
+    color: aqua;
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(108,89,48,1) 100%);
+}
+#First_Text{
+    color:cornflowerblue;
+    text-align: center;
+}
+
+#nav{
+    top : 50px;
+    position: relative;
+    align-items: center;
+    right: 20px;
+    left: 56px;
+    
+}
+#elements_nav{
+    position: relative;
+}
+
+#despre{
+    padding-top: 15px;
+
+    left: 250px;
+}
+#cunos{
+    padding-top: 15px;
+}
+#conta{
+    padding-top: 15px;
+}
+
+#content1{
+    align-items: center;
+    text-align: center;
+    color: darkblue;
+
+}
+#content2{
+    padding-top: 50px;
+    align-items: center;
+    text-align: center;
+    color: darkblue;
+}
+
+
+#Cunostinte_Section2{
+    text-align: center;
+   
+}
+
+#Items_Cunostinte{
+    
+    text-align: center;
+    
+
+}
+
+li >a {
+    text-decoration: none;
+}
+ul{
+    list-style: none;
+}
+
+#Footer{
+    padding-top: 100px;
+    
+}
+#Denumire_Footer{
+    text-align: right;
+}
+
+#Contacte_Footer{
+    text-align: right;
+    
+}
