@@ -1,0 +1,89 @@
+.navi{
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+
+header{
+    padding: 100px 0px;
+color: black;
+background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%)
+}
+
+img{
+    padding: 0px 10px;
+    width: 500x;
+    height: 350px;
+    border-radius: 50px;
+    
+}
+
+.scris{
+    color: rgb(80, 59, 59);
+    padding: 5px 15px;
+    font-style: italic;
+}
+.AboutContent{
+height: 1000px;
+    color:rgb(67, 82, 88);
+
+    color: black;
+background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%)
+
+}
+h1{
+    padding: 100px;
+    color: rgb(112, 118, 144);
+}
+
+.Studies{    
+    padding: 50px ,100px; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    background-image:url(/images/utm-cover.svg);
+}
+
+h2{
+    padding: 50px 25px;
+    color: rgba(126, 141, 97, 0.667);
+}
+
+.Knowleges{
+height: 800 px;
+
+background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%)
+
+
+}
+
+.Knowleges{
+
+    padding: 200px 25px ; 
+}
+
+.rowR{
+    height: 1000px;
+    padding: 150px 350px ;
+    color:whitesmoke;
+    background: black;
+    
+
+
+}
+
+a {
+    text-decoration: none;
+}
+li >a{
+
+    list-style: none;
+    
+
+}
